@@ -9,3 +9,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gitalam&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+JSX          12 hrs 56 mins  ████████████▒░░░░░░░░░░░░   49.70 % 
+JavaScript   11 hrs 11 mins  ██████████▓░░░░░░░░░░░░░░   42.97 % 
+HTML         1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+SCSS         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
