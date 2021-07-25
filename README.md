@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @gitalam
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-gitalam/gitalam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Perkenalkan nama saya Alamisaja
+- 👀 Saya seorang pembelajar pemrogramanan
+- 💞️ Saya sangat menyukai belajar pemrograma
+- 📫 yang mau mengenal lebih jauh yang jangan deh karena gak ada apa apa nya
